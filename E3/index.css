@@ -1,0 +1,22 @@
+html{
+    height: 100
+}
+
+body {
+    background: rgb(255, 255, 255);
+    margin: 0%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2.blog {
+    color: rgb(6, 120, 195);
+    font-size: 25px
+}
+
